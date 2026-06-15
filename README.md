@@ -85,5 +85,3 @@ https://openweathermap.org/api
 Gopika GS  
 B.Tech IT
 ```
-
----
