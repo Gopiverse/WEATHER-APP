@@ -38,8 +38,11 @@ Enter a city name and click **Get Weather** to view live weather details.
 
 CityWeatherApp/
 │
+
 ├── index.html # Main UI
+
 ├── styles.css # Styling
+
 ├── script.js # API logic and DOM handling
 
 
